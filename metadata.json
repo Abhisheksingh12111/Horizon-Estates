@@ -1,0 +1,6 @@
+{
+  "name": "Horizon Estates",
+  "description": "Premier real estate agency in India specializing in residential & commercial luxury homes, apartments, villas, and prime plots with verified RERA certification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
